@@ -1,0 +1,15 @@
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\bin\Debug\net6.0\Subroutine (sum).exe
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\bin\Debug\net6.0\Subroutine (sum).deps.json
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\bin\Debug\net6.0\Subroutine (sum).runtimeconfig.json
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\bin\Debug\net6.0\Subroutine (sum).dll
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\bin\Debug\net6.0\Subroutine (sum).pdb
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\Subroutine (sum).vbproj.AssemblyReference.cache
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\Subroutine (sum).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\Subroutine (sum).AssemblyInfoInputs.cache
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\Subroutine (sum).AssemblyInfo.vb
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\Subroutine (sum).vbproj.CoreCompileInputs.cache
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\Subroutine (sum).dll
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\refint\Subroutine (sum).dll
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\Subroutine (sum).pdb
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\Subroutine (sum).genruntimeconfig.cache
+D:\Coding\Dot Net\Subroutine (sum)\Subroutine (sum)\obj\Debug\net6.0\ref\Subroutine (sum).dll

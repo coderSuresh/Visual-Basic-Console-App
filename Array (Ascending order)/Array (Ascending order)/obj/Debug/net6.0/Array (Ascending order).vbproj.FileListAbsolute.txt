@@ -1,0 +1,15 @@
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\bin\Debug\net6.0\Array (Ascending order).exe
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\bin\Debug\net6.0\Array (Ascending order).deps.json
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\bin\Debug\net6.0\Array (Ascending order).runtimeconfig.json
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\bin\Debug\net6.0\Array (Ascending order).dll
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\bin\Debug\net6.0\Array (Ascending order).pdb
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\Array (Ascending order).vbproj.AssemblyReference.cache
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\Array (Ascending order).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\Array (Ascending order).AssemblyInfoInputs.cache
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\Array (Ascending order).AssemblyInfo.vb
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\Array (Ascending order).vbproj.CoreCompileInputs.cache
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\Array (Ascending order).dll
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\refint\Array (Ascending order).dll
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\Array (Ascending order).pdb
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\Array (Ascending order).genruntimeconfig.cache
+D:\Coding\Dot Net\Array (Ascending order)\Array (Ascending order)\obj\Debug\net6.0\ref\Array (Ascending order).dll

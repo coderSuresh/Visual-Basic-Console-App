@@ -1,0 +1,15 @@
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\bin\Debug\net6.0\Array (Greatest among 10).exe
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\bin\Debug\net6.0\Array (Greatest among 10).deps.json
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\bin\Debug\net6.0\Array (Greatest among 10).runtimeconfig.json
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\bin\Debug\net6.0\Array (Greatest among 10).dll
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\bin\Debug\net6.0\Array (Greatest among 10).pdb
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\Array (Greatest among 10).vbproj.AssemblyReference.cache
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\Array (Greatest among 10).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\Array (Greatest among 10).AssemblyInfoInputs.cache
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\Array (Greatest among 10).AssemblyInfo.vb
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\Array (Greatest among 10).vbproj.CoreCompileInputs.cache
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\Array (Greatest among 10).dll
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\refint\Array (Greatest among 10).dll
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\Array (Greatest among 10).pdb
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\Array (Greatest among 10).genruntimeconfig.cache
+D:\Coding\Dot Net\Array (Greatest among 10)\Array (Greatest among 10)\obj\Debug\net6.0\ref\Array (Greatest among 10).dll

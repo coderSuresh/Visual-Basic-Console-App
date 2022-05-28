@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "For loop (Multiplication)/1.0.0": {
+        "runtime": {
+          "For loop (Multiplication).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "For loop (Multiplication)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

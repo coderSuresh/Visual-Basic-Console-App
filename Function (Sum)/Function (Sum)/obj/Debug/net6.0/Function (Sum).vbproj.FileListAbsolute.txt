@@ -1,0 +1,15 @@
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\bin\Debug\net6.0\Function (Sum).exe
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\bin\Debug\net6.0\Function (Sum).deps.json
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\bin\Debug\net6.0\Function (Sum).runtimeconfig.json
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\bin\Debug\net6.0\Function (Sum).dll
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\bin\Debug\net6.0\Function (Sum).pdb
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\Function (Sum).vbproj.AssemblyReference.cache
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\Function (Sum).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\Function (Sum).AssemblyInfoInputs.cache
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\Function (Sum).AssemblyInfo.vb
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\Function (Sum).vbproj.CoreCompileInputs.cache
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\Function (Sum).dll
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\refint\Function (Sum).dll
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\Function (Sum).pdb
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\Function (Sum).genruntimeconfig.cache
+D:\Coding\Dot Net\Function (Sum)\Function (Sum)\obj\Debug\net6.0\ref\Function (Sum).dll
