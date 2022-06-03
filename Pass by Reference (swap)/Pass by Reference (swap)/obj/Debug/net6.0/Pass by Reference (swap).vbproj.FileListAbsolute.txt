@@ -1,0 +1,15 @@
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\bin\Debug\net6.0\Pass by Reference (swap).exe
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\bin\Debug\net6.0\Pass by Reference (swap).deps.json
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\bin\Debug\net6.0\Pass by Reference (swap).runtimeconfig.json
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\bin\Debug\net6.0\Pass by Reference (swap).dll
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\bin\Debug\net6.0\Pass by Reference (swap).pdb
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\Pass by Reference (swap).vbproj.AssemblyReference.cache
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\Pass by Reference (swap).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\Pass by Reference (swap).AssemblyInfoInputs.cache
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\Pass by Reference (swap).AssemblyInfo.vb
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\Pass by Reference (swap).vbproj.CoreCompileInputs.cache
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\Pass by Reference (swap).dll
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\refint\Pass by Reference (swap).dll
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\Pass by Reference (swap).pdb
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\Pass by Reference (swap).genruntimeconfig.cache
+D:\Coding\Dot Net\Pass by Reference (swap)\Pass by Reference (swap)\obj\Debug\net6.0\ref\Pass by Reference (swap).dll

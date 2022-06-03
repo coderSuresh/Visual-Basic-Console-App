@@ -1,0 +1,15 @@
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\bin\Debug\net6.0\Recursion (Factorial).exe
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\bin\Debug\net6.0\Recursion (Factorial).deps.json
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\bin\Debug\net6.0\Recursion (Factorial).runtimeconfig.json
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\bin\Debug\net6.0\Recursion (Factorial).dll
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\bin\Debug\net6.0\Recursion (Factorial).pdb
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\Recursion (Factorial).vbproj.AssemblyReference.cache
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\Recursion (Factorial).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\Recursion (Factorial).AssemblyInfoInputs.cache
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\Recursion (Factorial).AssemblyInfo.vb
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\Recursion (Factorial).vbproj.CoreCompileInputs.cache
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\Recursion (Factorial).dll
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\refint\Recursion (Factorial).dll
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\Recursion (Factorial).pdb
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\Recursion (Factorial).genruntimeconfig.cache
+D:\Coding\Dot Net\Recursion (Factorial)\Recursion (Factorial)\obj\Debug\net6.0\ref\Recursion (Factorial).dll

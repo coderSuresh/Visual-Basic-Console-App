@@ -1,0 +1,15 @@
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\bin\Debug\net6.0\Pass by Value (multiply).exe
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\bin\Debug\net6.0\Pass by Value (multiply).deps.json
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\bin\Debug\net6.0\Pass by Value (multiply).runtimeconfig.json
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\bin\Debug\net6.0\Pass by Value (multiply).dll
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\bin\Debug\net6.0\Pass by Value (multiply).pdb
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\Pass by Value (multiply).vbproj.AssemblyReference.cache
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\Pass by Value (multiply).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\Pass by Value (multiply).AssemblyInfoInputs.cache
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\Pass by Value (multiply).AssemblyInfo.vb
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\Pass by Value (multiply).vbproj.CoreCompileInputs.cache
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\Pass by Value (multiply).dll
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\refint\Pass by Value (multiply).dll
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\Pass by Value (multiply).pdb
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\Pass by Value (multiply).genruntimeconfig.cache
+D:\Coding\Dot Net\Pass by Value (multiply)\Pass by Value (multiply)\obj\Debug\net6.0\ref\Pass by Value (multiply).dll

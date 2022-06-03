@@ -1,0 +1,15 @@
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\bin\Debug\net6.0\foreach loop (sum of array elements).exe
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\bin\Debug\net6.0\foreach loop (sum of array elements).deps.json
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\bin\Debug\net6.0\foreach loop (sum of array elements).runtimeconfig.json
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\bin\Debug\net6.0\foreach loop (sum of array elements).dll
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\bin\Debug\net6.0\foreach loop (sum of array elements).pdb
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\foreach loop (sum of array elements).vbproj.AssemblyReference.cache
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\foreach loop (sum of array elements).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\foreach loop (sum of array elements).AssemblyInfoInputs.cache
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\foreach loop (sum of array elements).AssemblyInfo.vb
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\foreach loop (sum of array elements).vbproj.CoreCompileInputs.cache
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\foreach loop (sum of array elements).dll
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\refint\foreach loop (sum of array elements).dll
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\foreach loop (sum of array elements).pdb
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\foreach loop (sum of array elements).genruntimeconfig.cache
+D:\Coding\Dot Net\foreach loop (sum of array elements)\foreach loop (sum of array elements)\obj\Debug\net6.0\ref\foreach loop (sum of array elements).dll
